@@ -7,7 +7,7 @@ Using Asset Swap the buyer and the seller can rest assured that neither party ca
 
 ## How does it Work?
 To read about the system design of Alacrity and getting familiar with its tech-stack; i suggest reading my blog here:
-![Alacrity System Design](https://eggsyoncode.github.io/projects/2_project/)
+![Alacrity System Design]( https://eggsyoncode.github.io/projects/2_project/ )
 
 For starters;
 Alacrity has a microservices based architecture which can be illustrated by this figure 
