@@ -25,6 +25,14 @@ If you are a member of the organization,
 
 Otherwise you are free to create issues in any repo
 
+## 💡 Tech Stack:
+
+- **Architecture**: Microservices, Event-based, RabbitMQ for comms
+- **Tools**: NestJS, Postgres + TypeORM, Jest
+- **Blockchain**: Foundry, Anvil, MetaMask, IPFS (nft.storage)
+- **Cloud & DevOps**: AWS S3, Docker, AWS ECS, CodePipeline
+- **Front End**: VueJS, Vuetify, Figma
+
 <!--
 
 **Here are some ideas to get you started:**
